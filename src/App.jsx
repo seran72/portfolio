@@ -260,14 +260,15 @@
                 </div>
                 <div>
                   <p className="font-bold before:w-4 before:h-4 before:bg-gradient-to-t before:from-blue-500 before:to-cyan-500 before:block before:rounded-full before:mt-1 before:-left-6 before:absolute relative left-5">
-                    Linux
+                    ASM x86
                   </p>
                 </div>
+                
               </div>
               <div className="flex flex-col sm:flex-row gap-4 sm:gap-36 mt-4 sm:mt-6 w-[80%]">
-                <div>
+              <div>
                   <p className="font-bold before:w-4 before:h-4 before:bg-gradient-to-t before:from-blue-500 before:to-cyan-500 before:block before:rounded-full before:mt-1 before:-left-6 before:absolute relative left-5">
-                    Nmap
+                    Linux
                   </p>
                 </div>
                 <div>
