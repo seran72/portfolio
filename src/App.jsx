@@ -62,6 +62,12 @@
                       Projects
                     </a>
                   </li>
+
+                  <li>
+                    <a href="https://cyberwbo.blogspot.com/" target="blank">
+                      Blog
+                    </a>
+                  </li>
                 </ul>
               </div>
             </div>
