@@ -14,6 +14,7 @@
   import LinkedIn from "./assets/linkedin.svg";
   import Instagram from "./assets/instagram.svg";
   import ArrowDown from "./assets/arrow-down.svg";
+  import Blog from "./components/blog";
   import { useEffect, useState } from "react";
   
   function App() {
@@ -35,9 +36,8 @@
     }, [])
   
     return (
+      
       <div className="max-w-4xl m-auto relative">
-        
-        
         <section className="py-8" id="home">
         <header className={`${scrolling ? 'border-b border-gray-900' : ''}  fixed left-0 right-0 top-0 z-20`} >
           <div className="container m-auto px-4 py-6 max-w-4xl bg-black">
@@ -62,7 +62,11 @@
                       Projects
                     </a>
                   </li>
-
+                  <li>
+                    <a href="https://www.linkedin.com/in/serangemechu/" target="blank">
+                      Linkedin
+                    </a>
+                  </li>
                   <li>
                     <a href="https://cyberwbo.blogspot.com/" target="blank">
                       Blog
@@ -407,13 +411,8 @@
                 </div>
               </div>
             </div>
-
-            
           </section>
-            
-          
         </main>
-
         <footer>
           <div className="container m-auto flex justify-between px-4 py-60">
             <div>
@@ -449,7 +448,6 @@
             </button>
           )
         }
-        
       </div>
     );
   }
