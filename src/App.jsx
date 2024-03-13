@@ -85,7 +85,7 @@
               <div>
                 {/* <h2 className="font-bold text-4xl">Hello, I'm Seran,</h2> */}
                 <div className="relative flex items-center justify-center ">
-                  {/* <img src={Portfolio} className="rounded-full w-320 h-320 sm:w-[400px]" /> */}
+                  <img src={Portfolio} className="rounded-full w-320 h-320 sm:w-[400px]" />
                 </div>
                 <div>
                   {/* <h2 className="font-bold text-4xl  mt-1 gradiant-text">Software Developer</h2> */}
